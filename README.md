@@ -1,1 +1,1 @@
-# hackathon-repo
+# hackathon-marketing-genai
